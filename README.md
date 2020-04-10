@@ -40,15 +40,15 @@ See also:
 
 https://lift.cs.princeton.edu/java/linux/ for libs and steps to install
 ***
-javac-algs4 Outcast.java WordNet.java SAP.java 
+`javac-algs4 Outcast.java WordNet.java SAP.java` 
 
-spotbugs Outcast.class WordNet.class SAP.class
+`spotbugs Outcast.class WordNet.class SAP.class`
 
-checkstyle -coursera SAP.java Outcast.java WordNet.java 
+`checkstyle -coursera SAP.java Outcast.java WordNet.java` 
    
-pmd Outcast.java
+`pmd Outcast.java`
 
-pmd WordNet.java
+`pmd WordNet.java`
 
-pmd SAP.java 
+`pmd SAP.java` 
 ***
